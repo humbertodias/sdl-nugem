@@ -28,7 +28,7 @@ brew install sdl2 sdl2_image freeglut glew glm doxygen
 ## How to run
 
 ```shell
-cmake . -DCMAKE_BUILD_TYPE=Debug && make && ./nugem
+make build run
 ```
 
 ## Reference
