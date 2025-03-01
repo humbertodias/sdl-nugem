@@ -1,3 +1,7 @@
+[![CI](https://github.com/humbertodias/sdl-nugem/actions/workflows/ci.yml/badge.svg)](https://github.com/humbertodias/sdl-nugem/actions/workflows/ci.yml)
+[![CD](https://github.com/humbertodias/sdl-nugem/actions/workflows/cd.yml/badge.svg)](https://github.com/humbertodias/sdl-nugem/actions/workflows/cd.yml)
+![GitHub all releases](https://img.shields.io/github/downloads/humbertodias/sdl-nugen/total)
+
 # Nugem
 
 **nugem** is a 2D fighting game engine reimplementing M.U.G.E.N. using SDL2 and OpenGL aiming for compatibility with [Mugen](https://en.wikipedia.org/wiki/Mugen_(game_engine)).
